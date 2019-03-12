@@ -13,5 +13,6 @@
 * 2019-03-09: **"POWER POINT"**, por Luis Paz y Miño | [File](url tiene que estar dendro del mismo proyecto de git)
 
 ## Instalación o dependencias requeridas
-content here
+You can review the code used in the presentation with your Google Account.
+https://colab.research.google.com/drive/1ivToYkEsPHpedJvdrrRhc_3_RYjuJKXx
 
